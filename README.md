@@ -1,8 +1,8 @@
 # Cyber Security Task 01: Personal Security Audit & Cyber Awareness Assessment
 
 ## Part A: Device Security Assessment
-* **Operating System:** Windows 11 Home / macOS Sequoia *(Change as per your device)*
-* **OS Version:** 23H2 / Version 15.1 *(Change as per your device)*
+* **Operating System:** Windows 11 Home 
+* **OS Version:** 25H2 
 * **Is the system updated?:** Yes, all quality and security updates are installed.
 * **Antivirus Installed?:** Yes (Windows Defender)
 * **Firewall Enabled?:** Yes
